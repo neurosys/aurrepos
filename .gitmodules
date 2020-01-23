@@ -1,0 +1,18 @@
+[submodule "xorg/polybar"]
+	path = xorg/polybar
+	url = https://aur.archlinux.org/polybar.git
+[submodule "xorg/ttf-unifont"]
+	path = xorg/ttf-unifont
+	url = https://aur.archlinux.org/ttf-unifont.git
+[submodule "media/spotify"]
+	path = media/spotify
+	url = https://aur.archlinux.org/spotify.git
+[submodule "communication/teams"]
+	path = communication/teams
+	url = https://aur.archlinux.org/teams.git
+[submodule "tools/tusk"]
+	path = tools/tusk
+	url = https://aur.archlinux.org/tusk.git
+[submodule "xorg/siji-git"]
+	path = xorg/siji-git
+	url = https://aur.archlinux.org/siji-git.git
