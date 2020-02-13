@@ -16,3 +16,12 @@
 [submodule "xorg/siji-git"]
 	path = xorg/siji-git
 	url = https://aur.archlinux.org/siji-git.git
+[submodule "tools/git-flow/gitflow-avh"]
+	path = tools/git-flow/gitflow-avh
+	url = https://aur.archlinux.org/gitflow-avh.git
+[submodule "tools/git-flow/gitflow-zshcompletion"]
+	path = tools/git-flow/gitflow-zshcompletion
+	url = https://aur.archlinux.org/gitflow-zshcompletion-avh.git
+[submodule "tools/git-flow/gitflow-bashcompletion"]
+	path = tools/git-flow/gitflow-bashcompletion
+	url = https://aur.archlinux.org/gitflow-bashcompletion-avh.git
