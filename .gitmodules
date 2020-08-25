@@ -25,3 +25,24 @@
 [submodule "tools/git-flow/gitflow-bashcompletion"]
 	path = tools/git-flow/gitflow-bashcompletion
 	url = https://aur.archlinux.org/gitflow-bashcompletion-avh.git
+[submodule "communication/cisco-anyconnect"]
+	path = communication/cisco-anyconnect
+	url = https://aur.archlinux.org/cisco-anyconnect.git
+[submodule "media/google-chrome"]
+	path = media/google-chrome
+	url = https://aur.archlinux.org/google-chrome.git
+[submodule "media/vivaldi"]
+	path = media/vivaldi
+	url = https://aur.archlinux.org/vivaldi.git
+[submodule "tools/rsyslog"]
+	path = tools/rsyslog
+	url = https://aur.archlinux.org/rsyslog.git
+[submodule "communication/zoom"]
+	path = communication/zoom
+	url = https://aur.archlinux.org/zoom.git
+[submodule "tools/gdm3setup"]
+	path = tools/gdm3setup
+	url = https://aur.archlinux.org/gdm3setup.git
+[submodule "tools/gdm3setup-utils"]
+	path = tools/gdm3setup-utils
+	url = https://aur.archlinux.org/gdm3setup-utils.git
